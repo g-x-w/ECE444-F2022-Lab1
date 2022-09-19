@@ -11,7 +11,9 @@ Activity 3:
 ![img_2.png](img_2.png)
 
 Activity 4:
-Pending a friend
+https://github.com/ronwho/ECE444-F2022-Lab1
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
 
 Activity 5:
 ![img_3.png](img_3.png)
