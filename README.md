@@ -13,6 +13,9 @@ Activity 3:
 Activity 5:
 ![img_3.png](img_3.png)
 
+Activity 4:
+Pending a friend
+
 Activity 6:
 https://github.com/g-x-w/ECE444-2022-EP
 
