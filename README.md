@@ -9,3 +9,6 @@ Activity 2:
 
 Activity 3:
 ![img_2.png](img_2.png)
+
+Activity 4:
+![img_3.png](img_3.png)
