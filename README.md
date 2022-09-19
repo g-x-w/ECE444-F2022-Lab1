@@ -15,3 +15,7 @@ Activity 5:
 
 Activity 6:
 https://github.com/g-x-w/ECE444-2022-EP
+
+Activity 7:
+![img_5.png](img_5.png)
+![img_4.png](img_4.png)
