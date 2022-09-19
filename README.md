@@ -3,3 +3,6 @@ Gary Wei
 
 Activity 1:
 ![img.png](img.png)
+
+Activity 2:
+![img_1.png](img_1.png)
